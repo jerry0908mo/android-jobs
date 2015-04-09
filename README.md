@@ -53,7 +53,7 @@ YOU+ | [Android 开发](./北京--JD/YOU+ Android.md) | [雷军投资A轮](http:
 礼物说 | [Android 开发](./北京--JD/礼物说 Android.md) | 快速成长、20% 涨薪、期权、Mac | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-08-31")
 
 ####Shang Hai
-公司  | JD 地址 | 一句话诱惑 | 联系人
+公司  | JDduo 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------  
 蚂蚁金服 | [高级 Android](./上海--JD/蚂蚁金服 Android.md) | 高薪、期权及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
 阿里数娱 | [Android 专家](./上海--JD/阿里数字娱乐 Android 专家.md) | 高薪、期权及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
@@ -78,7 +78,7 @@ YOU+ | [Android 开发](./北京--JD/YOU+ Android.md) | [雷军投资A轮](http:
 阿里国际交易 | [Android 开发](./杭州--JD/阿里巴巴国际交易 Android.md) | 高薪、期权及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")  
 阿里聚划算 | [Android 开发](./杭州--JD/阿里聚划算 Android.md) | 高薪、期权及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")  
 阿里天猫 | [Android 开发](./杭州--JD/天猫 Android.md) | 高薪、期权及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")  
-多听 | [Android 开发](http://www.lagou.com/jobs/95475.html) | 13薪 景区办公 自由 成长机会 | [jerry0908mo@163.com](mailto:jerry0908mo@163.com "有效期至 2015-12-31")  
+多听 | [Android 开发](http://www.lagou.com/jobs/95475.html) | 年度境外旅游  高额股票期权 阿里隔壁办公 | [jerry0908mo@163.com](mailto:jerry0908mo@163.com "有效期至 2015-12-31")  
 网易LOFTER | [Android 开发](./杭州--JD/网易LOFTER Android.md) | 有技术追求的伙伴 | [shi-qiang@corp.netease.com](mailto:shi-qiang@corp.netease.com "有效期至 2015-12-31")
 快的打车 | [Android 开发](./杭州--JD/快的打车 Android.md) | 15薪 快速成长 期权 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
 
